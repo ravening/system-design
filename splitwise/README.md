@@ -1,6 +1,6 @@
-# Splitwise — Java 21 LLD
+# Splitwise — Java 25 LLD
 
-A clean, extensible Splitwise low-level design using Java 21+ features:
+A clean, extensible Splitwise low-level design using Java 25+ features:
 `sealed interface`, `record`, pattern matching `switch`, Builder, Strategy, Factory, Observer.
 
 ## Project Structure
@@ -17,7 +17,7 @@ src/main/java/splitwise/
 ```
 
 ## Prerequisites
-- Java 21+
+- Java 25+
 
 ## Compile & Run
 
